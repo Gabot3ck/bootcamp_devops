@@ -1,0 +1,27 @@
+Nombre completo: Jesús Gabriel Castillo Castillo
+
+Ocupación actual: Desarrollador de Software
+
+Correo electrónico: jesus.castilloc@outlook.com
+
+Teléfono de contacto: 
+
+Usuario de GitHub (opcional): https://github.com/Gabot3ck
+
+Usuario de LinkedIn (opcional): https://www.linkedin.com/in/gabriel-castillo-frontend/
+
+Ciudad y país de residencia: Santiago, RM,  Chile
+
+Resumen profesional: trayectoria, experiencia previa y habilidades destacadas.
+
+Formación académica y/o técnica: Ingeniería Industrial, Desarrollador Fullstack
+
+Expectativas del curso: ¿Qué esperas lograr al finalizar el bootcamp?
+Adquirir nuevos conocimientos en el Desarrollo del Software y así brindar mejores soluciones.
+
+Fortalezas y desafíos actuales
+Saber programar, autodi
+
+¿En qué áreas te gustaría recibir apoyo o mentoría?
+Computación en la nube AWS, Docker, Kubernetes.
+
