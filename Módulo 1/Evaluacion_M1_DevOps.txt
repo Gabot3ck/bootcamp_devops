@@ -1,27 +1,25 @@
-Nombre completo: Jesús Gabriel Castillo Castillo
+5.- Explica brevemente cómo el rol de DevOps ha cambiado la industria del desarrollo de software
+Este nuevo perfil ha mejorado en tiempo de entrega y efectividad los proyectos de software modernos, apoyado por habilidades técnicas como metodología ágil, computación en la nube, contenedores y orquestación, CI/CD y habilidades blandas como conminación asertiva, trabajo en equipo, liderazgo.
 
-Ocupación actual: Desarrollador de Software
 
-Correo electrónico: jesus.castilloc@outlook.com
+6.- Menciona dos herramientas esenciales en la gestión DevOps y describe su función.
+Control de versiones GIT: Almacenar diferentes versiones del flujo de código, trabajar en equipo de manera remota.
 
-Teléfono de contacto: 
+CI/CD: Integración y despliegue continuo, permite automatizar las tareas.
 
-Usuario de GitHub (opcional): https://github.com/Gabot3ck
 
-Usuario de LinkedIn (opcional): https://www.linkedin.com/in/gabriel-castillo-frontend/
+7.-Definir objetivos de carrera en DevOps: Terminar el bootcamp para lograr aplicar lo aprendido en mi empresa y después obtener el certificado de AWS.
 
-Ciudad y país de residencia: Santiago, RM,  Chile
+Describir un plan de acción concreto: Aplicar lo aprendido en un proyecto real de la empresa en donde laboro.
 
-Resumen profesional: trayectoria, experiencia previa y habilidades destacadas.
+Indicar plataformas donde se documentará el progreso: Documentado en GitHub
 
-Formación académica y/o técnica: Ingeniería Industrial, Desarrollador Fullstack
 
-Expectativas del curso: ¿Qué esperas lograr al finalizar el bootcamp?
-Adquirir nuevos conocimientos en el Desarrollo del Software y así brindar mejores soluciones.
+8.- ¿Cuáles son los principales desafíos de aprender en un bootcamp y cómo los enfrentarás?
+Aprendizaje acelerado: Anotar conceptos claves y scripts básicos en Notion.
 
-Fortalezas y desafíos actuales
-Saber programar, autodi
+Tolerancia a la frustración:  Ponerme objetivos pequeños, pedir ayuda y mentoría.
 
-¿En qué áreas te gustaría recibir apoyo o mentoría?
-Computación en la nube AWS, Docker, Kubernetes.
 
+9.- ¿Qué estrategias implementarás para maximizar tu aprendizaje y gestionar tu tiempo de estudio?
+Tecnica de pomodoro, notas en Notion, un plan de estudio donde incluya descanso
